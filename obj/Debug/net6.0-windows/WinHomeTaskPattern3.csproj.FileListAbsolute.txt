@@ -1,0 +1,17 @@
+C:\Users\plesk\source\repos\WinHomeTaskPattern3\obj\Debug\net6.0-windows\WinHomeTaskPattern3.csproj.AssemblyReference.cache
+C:\Users\plesk\source\repos\WinHomeTaskPattern3\obj\Debug\net6.0-windows\WinHomeTaskPattern3.Form1.resources
+C:\Users\plesk\source\repos\WinHomeTaskPattern3\obj\Debug\net6.0-windows\WinHomeTaskPattern3.csproj.GenerateResource.cache
+C:\Users\plesk\source\repos\WinHomeTaskPattern3\obj\Debug\net6.0-windows\WinHomeTaskPattern3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plesk\source\repos\WinHomeTaskPattern3\obj\Debug\net6.0-windows\WinHomeTaskPattern3.AssemblyInfoInputs.cache
+C:\Users\plesk\source\repos\WinHomeTaskPattern3\obj\Debug\net6.0-windows\WinHomeTaskPattern3.AssemblyInfo.cs
+C:\Users\plesk\source\repos\WinHomeTaskPattern3\obj\Debug\net6.0-windows\WinHomeTaskPattern3.csproj.CoreCompileInputs.cache
+C:\Users\plesk\source\repos\WinHomeTaskPattern3\bin\Debug\net6.0-windows\WinHomeTaskPattern3.exe
+C:\Users\plesk\source\repos\WinHomeTaskPattern3\bin\Debug\net6.0-windows\WinHomeTaskPattern3.deps.json
+C:\Users\plesk\source\repos\WinHomeTaskPattern3\bin\Debug\net6.0-windows\WinHomeTaskPattern3.runtimeconfig.json
+C:\Users\plesk\source\repos\WinHomeTaskPattern3\bin\Debug\net6.0-windows\WinHomeTaskPattern3.dll
+C:\Users\plesk\source\repos\WinHomeTaskPattern3\bin\Debug\net6.0-windows\WinHomeTaskPattern3.pdb
+C:\Users\plesk\source\repos\WinHomeTaskPattern3\obj\Debug\net6.0-windows\WinHomeTaskPattern3.dll
+C:\Users\plesk\source\repos\WinHomeTaskPattern3\obj\Debug\net6.0-windows\refint\WinHomeTaskPattern3.dll
+C:\Users\plesk\source\repos\WinHomeTaskPattern3\obj\Debug\net6.0-windows\WinHomeTaskPattern3.pdb
+C:\Users\plesk\source\repos\WinHomeTaskPattern3\obj\Debug\net6.0-windows\WinHomeTaskPattern3.genruntimeconfig.cache
+C:\Users\plesk\source\repos\WinHomeTaskPattern3\obj\Debug\net6.0-windows\ref\WinHomeTaskPattern3.dll
